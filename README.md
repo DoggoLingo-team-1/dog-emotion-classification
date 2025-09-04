@@ -1,4 +1,4 @@
-# 🐶 Dog Emotion Detection using YOLOv8 + ResNet50
+# 🐶 Dog Emotion Detection using YOLOv8 
 
 ## 📌 Project Overview
 This project combines **YOLOv8** (for dog detection) with **ResNet50** (for feature extraction) to build a pipeline that can detect dogs in images/videos and extract **emotion-related features**.  
